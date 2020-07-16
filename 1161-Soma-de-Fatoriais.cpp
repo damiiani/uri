@@ -11,7 +11,7 @@ int main() {
 
     while (cin >> m >> n) {
         sum = factorial(m) + factorial(n);
-        
+
         cout << sum << endl;
     }
 }
